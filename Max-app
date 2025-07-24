@@ -3,3 +3,4 @@ AWS (Amazon Web Services)TRAINING
 Availability Zones (AZ) consists of one or more data centres (DC). There are lots of computer stuffs in the data centres e.g servers,fire walls,storages. One AZ may contain 2 or more data centres.
 A region (R) is a geographical areas and consists of 2 or more AZ's.
 Edge Locations (EL): These are strategically positioned DC around the world that optimizes the delivery of contents and applications. This brings data services closer to the end users. They are endpoints for AWS which are used for caching contents.Typically this consists of CloudFronts, Amazon's Contents delivery Network (CDN). There are many more Edge locations than regions.When a user request contents, CloudFront retrieves it from the nearest EL minimizing travel time.
+The Lord is good
